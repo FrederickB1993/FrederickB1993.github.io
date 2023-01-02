@@ -13,6 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    display: flex;
 }
 
 ul {
@@ -24,7 +25,6 @@ li {
 }
 
 div {
-    display: flex;
     height: 80px;
     width: 80px;
     justify-content: center;
