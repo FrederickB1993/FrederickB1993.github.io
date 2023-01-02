@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    text-size-adjust: auto;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
