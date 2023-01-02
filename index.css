@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    display: flex;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
@@ -25,6 +24,7 @@ li {
 }
 
 div {
+    display: flex;
     height: 80px;
     width: 80px;
     justify-content: center;
